@@ -28,36 +28,31 @@ Clone the Repository:
 bash
 Copy
 Edit
-git clone https://github.com/SaiPurushotham25/Data-Science.git
+git clone https://github.com/SaiPurushotham25/Data-Science.git 
+
 cd Data-Science/Agentic\ AI/AI\ Video\ Summarizer
+
 Create a Virtual Environment:
 
-bash
-Copy
-Edit
 python -m venv venv
+
 source venv/bin/activate  # On Windows: venv\Scripts\activate
+
 Install Dependencies:
 
-bash
-Copy
-Edit
 pip install -r requirements.txt
+
 Set Up Environment Variables:
 
 Create a .env file in the project root directory and add your Google API key:
 
-env
-Copy
-Edit
 GOOGLE_API_KEY=your_google_api_key_here
-🧪 Usage
-Run the Application:
 
-bash
-Copy
-Edit
+🧪 Usage
+
+Run the Application:
 streamlit run app.py
+
 Interact with the Application:
 
 Open the provided local URL in your browser.
@@ -67,7 +62,8 @@ Upload a video file (.mp4, .mov, or .avi).
 Enter your query or request a summary in the text area.
 
 Click on the "Analyze Video" button to receive insights.
-GitHub
+
+
 
 
 📝 Example
@@ -79,15 +75,19 @@ The AI agent will process the video and provide a detailed summary, incorporatin
 
 
 📁 Project Structure
-plaintext
-Copy
-Edit
+
 AI Video Summarizer/
+
 ├── app.py
+
 ├── requirements.txt
+
 ├── .env
+
 └── README.md
+
 🤝 Contributing
+
 Contributions are welcome! If you have suggestions or improvements, please fork the repository and submit a pull request.
 
 
