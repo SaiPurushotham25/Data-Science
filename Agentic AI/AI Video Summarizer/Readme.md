@@ -1,4 +1,5 @@
 🎬 AI Video Summarizer Agent
+
 An interactive AI-powered application that analyzes video content and provides detailed summaries or answers to user queries. Built using Streamlit, Phidata's Agentic AI framework, and Google's Gemini 2.0 Flash experimental model, this tool offers a seamless experience for extracting insights from videos.
 
 🚀 Features
