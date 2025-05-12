@@ -13,10 +13,15 @@ The system leverages Google's Gemini-1.5-flash model for natural language proces
 
 CREW AI/
 ├── agents.py       # Defines the agents and orchestrates the workflow
+
 ├── crew.py         # Sets up the CrewAI environment
+
 ├── tasks.py        # Specifies tasks assigned to each agent
+
 ├── tools.py        # Implements tools like YoutubeChannelSearchTool
+
 ├── requirements.txt# Lists project dependencies
+
 └── README.md       # Project documentation
 
 🧰 Tech Stack
