@@ -25,7 +25,6 @@ Environment Management: python-dotenv for handling environment variables.
 
 📦 Installation
 Clone the Repository:
-
 bash
 Copy
 Edit
