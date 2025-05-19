@@ -14,19 +14,32 @@ Modular Architecture: Clean separation between frontend and backend for maintain
 🗂️ Project Structure
 
 Astrology_Chatbot/
+
 ├── Backend/
+
 │   ├── app/
+
 │   │   ├── api/
+
 │   │   │   └── endpoints.py
+
 │   │   ├── core/
+
 │   │   │   └── astro.py
+
 │   │   ├── Database/
+
 │   │   │   └── storage.py
+
 │   │   └── models/
+
 │   │       └── user.py
 │   └── main.py
+
 ├── Frontend/
+
 │   └── app.py
+
 └── requirements.txt
 
 🛠️ Installation
