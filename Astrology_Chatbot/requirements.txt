@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+requests
+openai
+python-dotenv
+streamlit
+flatlib
+timezonefinder 
+pytz
