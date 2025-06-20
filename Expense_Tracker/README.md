@@ -7,14 +7,23 @@ reports.
 🧩 Features Implemented
 
 ✅ Add new expenses with category, amount, and description
+
 ✅ Automatically saves expenses to Expenses.csv
+
 ✅ View total spending overview (total, highest, lowest expense)
+
 ✅ Category-wise analysis:
+
 Total spent per category
+
 Transaction count per category
+
 Percentage of total spending
+
 ✅ Filter by month or custom date range
+
 ✅ Generate pie chart showing category distribution
+
 ✅ Export summary to summary_report.csv
 
 ▶️ How to Run
@@ -48,19 +57,29 @@ ExpenseTracker/
 Sample Input (CSV Format)
 
 Date,Category,Amount,Description
+
 2025-06-10,Food,150,Pizza at Dominos
+
 2025-06-11,Transport,50,Rickshaw fare
+
 2025-06-12,Rent,5000,June Rent
+
 2025-06-12,Utilities,200,Electricity Bill
 
 📌 Sample Output
+
 🔹 Total Spending Overview
+
 Total Spending: ₹5400.00
+
 Highest Expense: ₹5000 (Rent - June Rent)
+
 Lowest Expense: ₹50 (Transport - Rickshaw fare)
 
 🔧 Extra Features
+
 📅 Filter by month (e.g., June 2025)
+
 📆 Filter by custom date range
 
 📤 Export summarized data to CSV (summary_report.csv)
